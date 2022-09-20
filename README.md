@@ -1,3 +1,4 @@
 # QR_Code_Components
 
-qrcode-component-fd.netlify.app
+live
+<a href="qrcode-component-fd.netlify.app">QR_Code</a>
